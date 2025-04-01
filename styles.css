@@ -86,11 +86,11 @@
     }
 
     a:nth-child(2) {
-        opacity: 0.4;
+        opacity: .4;
     }
 
     a:hover {
-        opacity: 0.4;
+        opacity: .4;
     }
 
     a:active {
